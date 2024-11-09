@@ -1,1 +1,1 @@
-Lead developer of PsExtra, ABNCG: Reimagined and other projects.
+Lead developer of PsExtra (offline), ABNCG: Reimagined (cancelled) and other projects.
