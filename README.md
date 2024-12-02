@@ -1,1 +1,1 @@
-Lead developer of PsExtra (completely rewritten as a simple, modern website), ABNCG: Reimagined (cancelled) and other projects.
+Lead developer of PsExtra (completely rewritten as a simple and modern website, offline due to a thunderstorm), ABNCG: Reimagined (suceeded by ABNCG Classic Remastered, which is a W.I.P texture pack) and other projects.
