@@ -1,5 +1,5 @@
 # Welcome to ASTerisk Games' GitHub page!
-I'm the lead developer of PsExtra (completely rewritten as a simple and modern website, offline due to a thunderstorm, also has a lite version), ABNCG: Reimagined (succeeded by ABNCG Classic Remastered, which is in version 1.1 as of 12.8.2024) and other projects (some are dead forks).
+I'm the lead developer of PsExtra (completely rewritten as a simple and modern website, also has a lite version), ABNCG: Reimagined (succeeded by ABNCG Classic Remastered, which is in version 1.1 as of 12.8.2024) and other projects (some are dead forks).
 
 ### ABNCG series <br/>
 ABNCG Classic: Discontinued (v1.3?) <br/>
