@@ -10,7 +10,7 @@ ABNCG Classic Remastered: In development (v1.1) (Will be finished after 1.5)
 ### PsExtra series <br/>
 PsExtra (OG): Shut down, succeeded by PsExtra Lite (v1.0?) <br/>
 PsExtra Desktop: Canceled (v1.0 Alpha) <br/>
-PsExtra Rewritten: Offline (until Dec 20 2024), on hold (v0.1.3.1) <br/>
+PsExtra Rewritten: Active, in development (v0.1.3.1) <br/>
 PsExtra Lite: Offline (until Jan 5 2025) (v1.0.1)
 
 <!-- IF THERE ARE TYPOS, I'LL TRY TO FIX IT ASAP! -->
