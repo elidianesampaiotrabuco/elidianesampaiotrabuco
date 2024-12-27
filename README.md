@@ -15,6 +15,6 @@ PsExtra Lite: Active (v1.1)
 
 ### Other projects <br/>
 Super Expert 2.2074 port (Geode mod): Discontinued, but works <br/>
-UnityExplorer (My fork): Released (v4.13.0)
+UnityExplorer (My fork): Released (v4.13.1)
 
 <!-- IF THERE ARE TYPOS, I'LL TRY TO FIX IT ASAP! -->
