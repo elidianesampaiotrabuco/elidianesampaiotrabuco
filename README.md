@@ -11,9 +11,10 @@ ABNCG Classic Remastered: In development (v1.1) (Will be finished after 1.5)
 PsExtra (OG): Shut down, succeeded by PsExtra Lite (v1.0?) <br/>
 PsExtra Desktop: Canceled (v1.0 Alpha) <br/>
 PsExtra Rewritten: Active, in development (v0.1.3.1) <br/>
-PsExtra Lite: Offline (until Jan 15 2025) (v1.0.1)
+PsExtra Lite: Offline (until Dec 30 2024) (v1.0.1)
 
 ### Other projects <br/>
-Super Expert 2.2074 port (Geode mod): Released
+Super Expert 2.2074 port (Geode mod): Discontinued, but works <br/>
+UnityExplorer (My fork): Released (v4.13.0)
 
 <!-- IF THERE ARE TYPOS, I'LL TRY TO FIX IT ASAP! -->
