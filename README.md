@@ -1,4 +1,6 @@
 # Welcome to ASTerisk Games' GitHub page!
+> The 2026 before the actual 2026... (joke)
+
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
 ### ABNCG series (for Geometry Dash) <br/>
