@@ -6,7 +6,7 @@ I'm the lead developer of PsExtra (completely rewritten as a simple and modern w
 ### ABNCG series (for Geometry Dash) <br/>
 ABNCG Classic: Discontinued (v1.3?) <br/>
 ABNCG Remastered: Unreleased (v0.1?) <br/>
-ABNCG Reimagined: Canceled (v0.1.7) <br/>
+ABNCG Reimagined: Canceled, successor in planning (v0.1.7) <br/>
 ABNCG Classic Remastered: In development (v1.1) (Will be finished after 1.5) <br/>
 ABNCG Reworked: In planning
 
