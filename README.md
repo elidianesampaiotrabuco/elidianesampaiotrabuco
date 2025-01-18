@@ -13,7 +13,7 @@ ABNCG Reworked: In planning
 ### PsExtra series <br/>
 PsExtra (OG): Shut down, succeeded by PsExtra Lite (v1.0?) <br/>
 PsExtra Desktop: Canceled (v1.0 Alpha) <br/>
-PsExtra Rewritten: Active, in development (v0.1.3.1, 0.2 coming soon) <br/>
+PsExtra Rewritten: Active, in development (v0.1.43, 0.2 coming soon) <br/>
 PsExtra Lite: Active (v1.1)
 
 ### Other projects <br/>
