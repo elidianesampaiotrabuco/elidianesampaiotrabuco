@@ -1,7 +1,7 @@
 # Welcome to ASTerisk Games' GitHub page!
 > Welcome back, TikTok. (joke, tiktok went back online a few hours after the ban, even though it was 1 month ago)
 
-I'm the lead developer of PsExtra (completely rewritten as a simple and modern website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
+I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
 ### ABNCG series (for Geometry Dash) <br/>
 ABNCG Classic: Discontinued (v1.3?) <br/>
