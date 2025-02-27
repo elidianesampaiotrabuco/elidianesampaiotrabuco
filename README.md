@@ -1,6 +1,9 @@
 # Welcome to ASTerisk Games' GitHub page!
 > The 2026 before the actual 2026... (joke)
 
+> [!NOTE]  
+> abncg: reworked will be back in development once i am awake. see ya later!
+
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
 ### ABNCG series (for Geometry Dash) <br/>
@@ -8,7 +11,7 @@ ABNCG Classic: Discontinued (v1.3?) <br/>
 ABNCG Remastered: Unreleased (v0.1?) <br/>
 ABNCG Reimagined: Canceled, successor in development (v0.1.7) <br/>
 ABNCG Classic Remastered: In development (v1.1) (Will be finished after 1.5) <br/>
-ABNCG Reworked: In development (v0.0.0)
+ABNCG Reworked: On hold (v0.0.0)
 
 ### PsExtra series <br/>
 PsExtra (OG): Shut down, succeeded by PsExtra Lite (v1.0?) <br/>
