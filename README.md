@@ -3,7 +3,7 @@
 
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
-### ABNCG series (for Geometry Dash) <br/>
+### ABNCG series (for Geometry Dash, no longer interested in that game) <br/>
 ABNCG Classic: Discontinued (v1.3?) <br/>
 ABNCG Remastered: Unreleased (v0.1?) <br/>
 ABNCG Reimagined: Cancelled (v0.1.7) <br/>
