@@ -19,6 +19,7 @@ PsXTRA: Active, in development (v2.0.0)
 ### Other projects <br/>
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork <br/>
 UnityExplorer Plus: Released (v1.1.0.1) <br/>
+UnityExplorer Plus Rewritten: In development (v2.0.0-alpha.1) <br/>
 LOLKitteh (PsXTRA sister project): Released (v1.1)
 
 <!-- IF THERE ARE TYPOS, I'LL TRY TO FIX IT ASAP! -->
