@@ -1,4 +1,4 @@
-# Welcome to ASTerisk Games' GitHub page!
+# Welcome to ASTerisk Productions' GitHub page!
 > busy atm
 
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
@@ -7,7 +7,7 @@ I'm the lead developer of PsExtra (completely rewritten as a simple and modern (
 ABNCG Classic: Discontinued (v1.3?) <br/>
 ABNCG Remastered: Unreleased (v0.1?) <br/>
 ABNCG Reimagined: Cancelled (v0.1.7) <br/>
-ABNCG Classic Remastered: On hold (v1.1) (Will be finished after 1.5) <br/>
+ABNCG Classic Remastered: Discontinued (v1.1) (lost interest on gd) <br/>
 ABNCG Reworked: Cancelled (v0.0.0)
 
 ### PsXTRA (formerly PsExtra) series <br/>
@@ -19,7 +19,7 @@ PsXTRA: Active, in development (v2.0.0)
 ### Other projects <br/>
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork <br/>
 UnityExplorer Plus: Released (v1.1.0.1) <br/>
-UnityExplorer Plus Rewritten: In development (v2.0.0-alpha.2) <br/>
+UnityExplorer Plus Rewritten: On hold (v2.0.0-alpha.2) <br/>
 LOLKitteh (PsXTRA sister project): Released (v1.1)
 
 <!-- IF THERE ARE TYPOS, I'LL TRY TO FIX IT ASAP! -->
