@@ -1,5 +1,5 @@
 # Welcome to ASTerisk Productions' GitHub page!
-> busy atm
+> less active on this site nowadays
 
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
