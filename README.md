@@ -7,7 +7,7 @@ I'm the lead developer of PsExtra (completely rewritten as a simple and modern (
 ABNCG Classic: Discontinued (v1.3?) <br/>
 ABNCG Remastered: Unreleased (v0.1?) <br/>
 ABNCG Reimagined: Cancelled (v0.1.7) <br/>
-ABNCG Classic Remastered: Discontinued (v1.1) (lost interest on gd) <br/>
+ABNCG Classic Remastered: Discontinued (v1.1) (lost interest to gd) <br/>
 ABNCG Reworked: Cancelled (v0.0.0)
 
 ### PsXTRA (formerly PsExtra) series <br/>
