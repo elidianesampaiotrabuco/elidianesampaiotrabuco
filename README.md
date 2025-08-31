@@ -21,7 +21,7 @@ Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with n
 UnityExplorer Plus: Released (v1.1.0.1) <br/>
 UnityExplorer Plus Rewritten: Canceled (v2.0.0-alpha.2) <br/>
 LOLKitteh (PsXTRA sister project): Released (v1.1) <br/>
-StarrieOS (Fork of a operating system called ReactOS): In development (SRE30*)
+StarrieOS (Fork of a operating system called ReactOS): In development (SRE30B*)
 
 <p>* Build number.</p>
 
