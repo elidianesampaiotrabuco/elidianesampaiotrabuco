@@ -8,7 +8,7 @@ ABNCG Classic: Discontinued (v1.3?) <br/>
 ABNCG Remastered: Unreleased (v0.1?) <br/>
 ABNCG Reimagined: Canceled (v0.1.7) <br/>
 ABNCG Classic Remastered: Discontinued (v1.1) (lost interest to gd) <br/>
-ABNCG Reworked: Cancelled (v0.0.0)
+ABNCG Reworked: Canceled (v0.0.0)
 
 ### PsXTRA (formerly PsExtra) series <br/>
 PsExtra (OG): Shut down, succeeded by PsExtra Lite (v1.0?) <br/>
