@@ -23,6 +23,10 @@ UnityExplorer Plus Rewritten: Canceled (v2.0.0-alpha.2) <br/>
 LOLKitteh (PsXTRA sister project): Released (v1.1) <br/>
 StarrieOS (Fork of a operating system called ReactOS): In development (SRE30B*) (BRA38 is being worked on) (B is Balloon World)
 
+### StarrieOS codenames (as of now) <br/>
+0.1: Balloon World <br/>
+0.2: Cheesecake
+
 <p>* Build number.</p>
 
 <!-- IF THERE ARE TYPOS, I'LL TRY TO FIX IT ASAP! -->
