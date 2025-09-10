@@ -25,7 +25,7 @@ StarrieOS (Fork of a operating system called ReactOS): In development (SRE30B*) 
 
 ### StarrieOS codenames (as of now) <br/>
 0.1: Balloon World <br/>
-0.2: Cheesecake
+0.2: Cookie
 
 <p>* Build number.</p>
 
