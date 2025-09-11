@@ -21,11 +21,7 @@ Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with n
 UnityExplorer Plus: Released (v1.1.0.1) <br/>
 UnityExplorer Plus Rewritten: Canceled (v2.0.0-alpha.2) <br/>
 LOLKitteh (PsXTRA sister project): Released (v1.1) <br/>
-StarrieOS (Fork of a operating system called ReactOS): Canceled, rework planned (SRE30B*) (BRA40 is being worked on) (B is Balloon World)
-
-### StarrieOS codenames (as of now) <br/>
-0.1: Balloon World <br/>
-0.2: Cheesecake
+StarrieOS (Fork of a operating system called ReactOS): Canceled, rework planned (SRE30B*) (BRA40 was being worked on) (B is Balloon World)
 
 <p>* Build number.</p>
 
