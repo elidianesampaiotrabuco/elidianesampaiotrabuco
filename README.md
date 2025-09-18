@@ -5,7 +5,7 @@ I'm the lead developer of PsExtra (completely rewritten as a simple and modern (
 
 I'm also learning Lua and C#.
 
-### ABNCG series (for Geometry Dash, barely interested in that game) <br/>
+### ABNCG series (for Geometry Dash, no longer interested in that game) <br/>
 ABNCG Classic: Discontinued (v1.3?) <br/>
 ABNCG Remastered: Unreleased (v0.1?) <br/>
 ABNCG Reimagined: Canceled (v0.1.7) <br/>
