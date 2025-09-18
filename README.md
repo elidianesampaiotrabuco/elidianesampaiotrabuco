@@ -16,7 +16,7 @@ ABNCG Reworked: Canceled (v0.0.0)
 PsExtra (OG): Shut down, succeeded by PsExtra Lite (v1.0?) <br/>
 PsExtra Desktop: Canceled (v1.0 Alpha) <br/>
 PsXTRA Ultimate: Active, in development (v0.1.5, 0.2 coming soon) <br/>
-PsXTRA: Active, in development (v2.0.0)
+PsXTRA: Active (v2.0.1)
 
 ### Other projects <br/>
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork <br/>
