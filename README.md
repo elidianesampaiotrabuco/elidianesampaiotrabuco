@@ -1,6 +1,6 @@
 # Welcome to ASTerisk Productions' GitHub page!
 > [!IMPORTANT]  
-> Apologies for the inconvenience, but due to a severe thunderstorm, my websites are offline until September 26th. Thank you. - ASTerisk // MSVEC1024 Qᴴᴰ
+> Apologies for the inconvenience, but due to a severe thunderstorm, my personal website, the PsXTRA series and LOLKitteh are offline until September 26th. Thank you. - ASTerisk // MSVEC1024 Qᴴᴰ
 
 > less active on this site nowadays
 
@@ -18,14 +18,14 @@ ABNCG Reworked: Canceled (v0.0.0)
 ### PsXTRA (formerly PsExtra) series <br/>
 PsExtra (OG): Shut down, succeeded by PsExtra Lite (v1.0?) <br/>
 PsExtra Desktop: Canceled (v1.0 Alpha) <br/>
-PsXTRA Ultimate: Active, in development (v0.1.5, 0.2 coming soon) <br/>
-PsXTRA: Active (v2.0.1)
+PsXTRA Ultimate: Offline, in development (v0.1.5, 0.2 coming soon) <br/>
+PsXTRA: Offline (v2.0.1)
 
 ### Other projects <br/>
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork <br/>
 UnityExplorer Plus: Released (v1.1.0.1) <br/>
 UnityExplorer Plus Rewritten: Canceled (v2.0.0-alpha.2) <br/>
-LOLKitteh (PsXTRA sister project): Released (v1.1) <br/>
+LOLKitteh (PsXTRA sister project): Released, offline (v1.1) <br/>
 StarrieOS (Fork of a operating system called ReactOS): Canceled, rework planned (SRE30B*) (BRA40 was being worked on) (B is Balloon World)
 
 <p>* Build number.</p>
