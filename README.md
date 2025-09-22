@@ -1,7 +1,4 @@
 # Welcome to ASTerisk Productions' GitHub page!
-> [!IMPORTANT]  
-> Apologies for the inconvenience, but due to a severe thunderstorm, my personal website, the PsXTRA series and LOLKitteh are offline until September 26th. Thank you. - ASTerisk // MSVEC1024 Qᴴᴰ
-
 > less active on this site nowadays
 
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
