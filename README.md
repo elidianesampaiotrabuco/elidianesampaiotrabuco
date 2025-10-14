@@ -1,5 +1,5 @@
 # Welcome to ASTerisk Productions (soon to be MediaStarrieVideoEditorCommunications1024 Qᴴᴰ/MSVEC1024 Qᴴᴰ)'s GitHub page!
-> i'm a little more active here now
+> R.I.P. Windows 10. (2015-2025, not a joke)
 
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
