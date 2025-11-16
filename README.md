@@ -3,7 +3,7 @@
 
 I'm the lead developer of PsExtra (completely rewritten as a simple and modern (Win8 Metro-ish) website, also has a lite version), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
-I'm also learning Lua and C#.
+I'm also learning Lua and C#. (I'm kinda bad at C#)
 
 ### ABNCG series (for Geometry Dash, no longer interested in that game) <br/>
 ABNCG Classic: Discontinued (v1.3?)<br/>
