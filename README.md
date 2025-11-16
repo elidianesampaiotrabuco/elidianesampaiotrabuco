@@ -25,7 +25,7 @@ UnityExplorer Plus Rewritten: Canceled (v2.0.0-alpha.2)<br/>
 LOLKitteh (PsXTRA sister project): Released (v1.1)<br/>
 StarrieOS (Fork of a operating system called ReactOS): Canceled, rework planned (SRE30B*) (BRA40 was being worked on) (B is Balloon World)<br/>
 Ice Cream Sandwich (PenguinMod extensions repo, successor of Remix): Released<br/>
-Shaldi's Tower of Chaos Pack (Baldi's Basics Plus mod): In planning
+Shaldi's Tower of Chaos Pack (Baldi's Basics Plus mod): In development (Snapshot #1)
 
 <p>* Build number.</p>
 
