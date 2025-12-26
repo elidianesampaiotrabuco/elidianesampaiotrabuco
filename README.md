@@ -30,8 +30,7 @@ platformer.mp4 (Platformer game, where you play as Epsilon, the 5th letter of th
 数学 (Also known as Sugaku. Desmos mod that has a dark &amp; light mode toggle and desktop support): Coming soon<br/>
 The Lost Files (A lost media archive, where its webpage contents is a mix between a spreadsheet and a HTML document): Coming soon<br/>
 Frebble (A joke game where you have to hover over bubbles to pop them in a time span of 10 seconds. If you lose, you get jumpscared by Freddy Fazbear from the Five Nights at Freddy's series (credits to Scott Cawthon)): Coming soon<br/>
-A number sign's day (A game about a number sign, and the player is in the number sign's house. There is no main goal, the player can just relax, wander around the house, or go outside to enjoy some fresh air.): Coming soon<br/>
-Shaldi's Tower of Chaos (Used to be a BB+ mod, later turned into an actual Baldi's Basics Classic decompile mod): Coming soon (demo 1 releases December 29th, demo 2 releases January 12th 2026, and full release will be on January 20th 2026. will be my fourth public Baldi's Basics mod, the first being the 0.12 port of the BB+ Phonty mod, the second being STOC Pack and the thiird being the rewrite of Bart in BB+)
+A number sign's day (A game about a number sign, and the player is in the number sign's house. There is no main goal, the player can just relax, wander around the house, or go outside to enjoy some fresh air.): Coming soon
 
 <p>* Build number.</p>
 
