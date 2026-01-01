@@ -1,6 +1,6 @@
 # Welcome to MediaStickyVideoEditor640 HD's GitHub page!
 > [!IMPORTANT]  
-> 2025 is officially coming to an end! Although, it's about 13 hours away.
+> 2026 is officially here! Unfortunately, my computer broke down while i was at the party, and it's because of a loose cable. Luckily though, it was fixed.
 
 > i'm a little more active here now
 
