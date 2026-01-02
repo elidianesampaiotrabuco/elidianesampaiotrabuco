@@ -1,7 +1,4 @@
 # Welcome to MediaStickyVideoEditor640 HD's GitHub page!
-> [!IMPORTANT]  
-> 2026 is officially here! Unfortunately, my computer broke down while i was at the party, and it's because of a loose cable. Luckily though, it was fixed.
-
 > i'm a little more active here now
 
 I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
