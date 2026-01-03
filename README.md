@@ -16,7 +16,7 @@ ABNCG Reworked: Canceled (v0.0.0)
 PsExtra (OG): Shut down, succeeded by PsXTRA (v1.0?)<br/>
 PsExtra Desktop: Canceled (v1.0 Alpha)<br/>
 PsXTRA Ultimate: Active, in development (v0.1.5, 0.2 coming soon)<br/>
-PsXTRA: Active, in development (v2.1.0-beta.3a, will start working on beta 4 tomorrow)
+PsXTRA: Active, in development (v2.1.0-beta.4)
 
 ### Other projects (some of these do not have version information) <br/>
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork<br/>
@@ -27,7 +27,7 @@ StarrieOS (Fork of a operating system called ReactOS): Canceled, rework planned 
 Ice Cream Sandwich (PenguinMod extensions repo, successor of Remix): Released<br/>
 Shaldi's Tower of Chaos Pack (Baldi's Basics Plus mod): Canceled due to being rushed (Snapshot #1, snapshot #2 was in development)<br/>
 platformer.mp4 (Platformer game, where you play as Epsilon, the 5th letter of the Greek alphabet): Coming soon<br/>
-数学 (Also known as Sugaku. Desmos mod that has a dark &amp; light mode toggle and desktop support): Coming soon<br/>
+数学 (Also known as Sugaku. Desmos clone that has a dark &amp; light mode toggle and desktop support): In development<br/>
 The Lost Files (A lost media archive, where its webpage contents is a mix between a spreadsheet and a HTML document): Coming soon<br/>
 Frebble (A joke game where you have to hover over bubbles to pop them in a time span of 10 seconds. If you lose, you get jumpscared by Freddy Fazbear from the Five Nights at Freddy's series (credits to Scott Cawthon)): Coming soon<br/>
 A number sign's day (A game about a number sign, and the player is in the number sign's house. There is no main goal, the player can just relax, wander around the house, or go outside to enjoy some fresh air.): Coming soon
