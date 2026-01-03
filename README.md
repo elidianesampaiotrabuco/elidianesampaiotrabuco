@@ -1,5 +1,5 @@
 # Welcome to MediaStickyVideoEditor640 HD's GitHub page!
-> i'm a little more active here now
+> yeeeeouch
 
 I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
 
