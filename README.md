@@ -1,6 +1,6 @@
 # Welcome to MediaStickyVideoEditor640 HD (soon to be ThatBrazilianLogoEditor3500 Qᴴᴰ, by February/March)'s GitHub page!
 > [!IMPORTANT]  
-> My main website is currently down for maintenance. My other sites will still be online, but they will not recieve updates until the maintenance ends (January 14th, at 1 PM BRT)
+> My main website is currently down for maintenance. My other sites will still be online, but they will not recieve updates until the maintenance ends (January 15th, at 1 PM BRT)
 
 > yeeeeouch
 
