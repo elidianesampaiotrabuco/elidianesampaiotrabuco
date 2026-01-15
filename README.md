@@ -1,7 +1,4 @@
 # Welcome to MediaStickyVideoEditor640 HD (soon to be ThatBrazilianLogoEditor3500 Qᴴᴰ, by February/March)'s GitHub page!
-> [!IMPORTANT]  
-> My main website is currently down for maintenance. My other sites will still be online, but they will not recieve updates until the maintenance ends (January 15th, at 1 PM BRT)
-
 > yeeeeouch
 
 I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
