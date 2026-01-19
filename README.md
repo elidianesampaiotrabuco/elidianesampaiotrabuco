@@ -1,4 +1,4 @@
-# Welcome to MediaStickyVideoEditor640 HD (soon to be ThatBrazilianLogoEditor3500 Qᴴᴰ, by February/March)'s GitHub page!
+# Welcome to MediaStickyVideoEditor640 HD (soon to be Stickythevideoeditor745, by February/March)'s GitHub page!
 > yeeeeouch
 
 I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
@@ -22,7 +22,7 @@ PsXTRA: Active, in development (v2.1.0-beta.4)
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork<br/>
 UnityExplorer Plus: Released (v1.1.0.1)<br/>
 UnityExplorer Plus Rewritten: Canceled (v2.0.0-alpha.2)<br/>
-LOLKitteh (PsXTRA sister project): Released (v1.1.2)<br/>
+LOLKitteh (PsXTRA sister project): Released (v1.1.2, v2.0 coming soon)<br/>
 StarrieOS (Fork of a operating system called ReactOS): Canceled, rework planned (SRE30B*) (BRA40 was being worked on) (B is Balloon World)<br/>
 Ice Cream Sandwich (PenguinMod extensions repo, successor of Remix): Released<br/>
 Shaldi's Tower of Chaos Pack (Baldi's Basics Plus mod): Canceled due to being rushed (Snapshot #1, snapshot #2 was in development)<br/>
