@@ -1,16 +1,9 @@
-# Welcome to MediaStickyVideoEditor640 HD (soon to be Stickythevideoeditor745, by February/March)'s GitHub page!
+# Welcome to MediaStickyVideoEditor640 HD (soon to be StickyTheLogoEditorAndVegReplacer815 HD/STLEAVR815 HD by March or April, StickyTheLogoEditorAndGamer815 HD/STLEAG815 HD in May)'s GitHub page!
 > yeeeeouch
 
-I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), ~~ABNCG: Reimagined~~ ABNCG: Classic Remastered (name inspired from Baldi's Basics Classic Remastered, credits to mystman12) and other projects (some are dead forks).
+I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), UnityExplorer+ (started getting popular) and other projects (some are dead forks).
 
 I'm also learning Lua and C#. (I'm kinda bad at C#)
-
-### ABNCG series (for Geometry Dash, no longer interested in that game) <br/>
-ABNCG Classic: Discontinued (v1.3?)<br/>
-ABNCG Remastered: Unreleased (v0.1?)<br/>
-ABNCG Reimagined: Canceled (v0.1.7)<br/>
-ABNCG Classic Remastered: Discontinued (v1.1) (lost interest to gd)<br/>
-ABNCG Reworked: Canceled (v0.0.0)
 
 ### PsXTRA (formerly PsExtra) series <br/>
 PsExtra (OG): Shut down, succeeded by PsXTRA (v1.0?)<br/>
