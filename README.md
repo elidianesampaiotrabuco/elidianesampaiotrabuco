@@ -30,6 +30,8 @@ Sticky's Monstrosity (A modpack for Baldi's Basics Plus containing hundreds of m
 
 ### More info on Sticky's Monstrosity <br/>
 The modpack will require BB+ 0.14, at least 16 gigabytes of RAM (8 during demos 1-5, will require 16 in demos 6 and beyond) and 3 gigabytes of storage (1.5 to 2 during demos, may vary depending on your hard drive). This modpack may also get updated to future versions of BB+, albeit with less mods (around the 80-110 mod range), due to their respective mods not yet being ported. Also, before you play the modpack, you must have the seed input unlocked first (unlocked by beating hide-and-seek in vanilla), as there is some stupid bug with the any symbols in seeds mod, where the game would fail to set the seed when its input was not unlocked yet, resulting in the seed being set to 0 on every run.
+<br/><br/>
+The game may also take 1 or 2 hours to beat with this modpack on, depending on your skill/luck/computer.
 
 <p>* Build number.</p>
 
