@@ -17,7 +17,7 @@ PsXTRA: Active, in development (v2.1.0-beta.4)
 
 ### Other projects (some of these do not have version information) <br/>
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork<br/>
-LOLKitteh (PsXTRA sister project): Currently being reworked (v2.0)<br/>
+LOLKitteh (PsXTRA sister project): Active (v2.0)<br/>
 StarrieOS (Fork of a operating system called ReactOS): Canceled, rework planned (SRE30B*) (BRA40 was being worked on) (B is Balloon World)<br/>
 Ice Cream Sandwich (PenguinMod extensions repo, successor of Remix): Released<br/>
 Shaldi's Tower of Chaos Pack (Baldi's Basics Plus mod): Canceled due to being rushed (Snapshot #1, snapshot #2 was in development)<br/>
