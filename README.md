@@ -1,4 +1,4 @@
-# Welcome to MediaStickyVideoEditor640 HD (soon to be StickyTheLogoEditorAndVEGReplacer815 HD/STLEAVR815 HD by March or April, StickyTheLogoEditorAndGamer815 HD/STLEAG815 HD in May)'s GitHub page!
+# Welcome to MediaStickyVideoEditor640 HD (soon to be StickyTheLogoEditorAndAnimator915 HD/STLEAA915 HD by March, April, or May)'s GitHub page!
 > 2026 is actually real omfg!!!1111 (joke)
 
 I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), UnityExplorer+ (started getting popular) and other projects (some are dead forks).
