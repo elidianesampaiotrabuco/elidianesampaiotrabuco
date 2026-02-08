@@ -1,7 +1,7 @@
 # Welcome to MediaStickyVideoEditor640 HD (soon to be StickyTheLogoEditorAndAnimator915 HD/STLEAA915 HD by March, April, or May)'s GitHub page!
 > 2026 is actually real omfg!!!1111 (joke)
 
-I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), UnityExplorer+ (started getting popular) and other projects (some are dead forks).
+I'm the lead developer of PsXTRA (completely remade as a simple and modern (Win8 Metro-ish) website), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
 
 I'm also learning Lua and C#. (I'm kinda bad at C#)
 
