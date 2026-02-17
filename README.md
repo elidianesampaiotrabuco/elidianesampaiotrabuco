@@ -13,8 +13,8 @@ UnityExplorer Plus Rewritten: Canceled (v2.0.0-alpha.2)
 PsExtra (OG): Shut down, succeeded by PsXTRA (v1.0?)<br/>
 PsExtra Desktop: Canceled (v1.0 Alpha)<br/>
 PsXTRA Ultimate: Active, in development (v0.1.5, 0.2 coming soon)<br/>
-PsXTRA Classic: Coming soon (v2.9.9)<br/>
-PsXTRA: Active, being remade (v26.0)
+PsXTRA Classic: Active (v2.9.11)<br/>
+PsXTRA: Active, being remade (v26.0-beta.1)
 
 ### Other projects (some of these do not have version information) <br/>
 Super Expert 2.2074 port (Geode mod, my old fork): Discontinued, replaced with new fork<br/>
