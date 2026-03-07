@@ -1,4 +1,4 @@
-# Welcome to MediaStickyVideoEditor640 HD (soon to be Nexusian/MediaNexusLogoEditor745 by early-March)'s GitHub page!
+# Welcome to MediaStickyVideoEditor640 HD (soon to be Nexusian/MediaNexusLogoEditor745 by mid-March)'s GitHub page!
 > 2026 is actually real omfg!!!1111 (joke)
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
@@ -27,7 +27,8 @@ platformer.mp4 (Platformer game, where you play as Epsilon, the 5th letter of th
 The Lost Files (A lost media archive, where its webpage contents is a mix between a spreadsheet and a HTML document): Under construction<br/>
 Frebble (A joke game where you have to hover over bubbles to pop them in a time span of 10 seconds. If you lose, you get jumpscared by Freddy Fazbear from the Five Nights at Freddy's series (credits to Scott Cawthon)): Coming soon<br/>
 A number sign's day (A game about a number sign, and the player is in the number sign's house. There is no main goal, the player can just relax, wander around the house, or go outside to enjoy some fresh air.): Coming soon<br/>
-Supercalifragilisticexpialidocious (Geometry Dash mod that adds new content. Will soon be a modpack containing 450+ mods): On hold (v1.0.0-beta.3)
+Supercalifragilisticexpialidocious (Geometry Dash mod that adds new content. Will soon be a modpack containing 450+ mods): On hold (v1.0.0-beta.3) <br/>
+Bunch O' Characters (bb+ mod that adds a bunch of npcs): Coming soon
 
 <p>* Build number.</p>
 
