@@ -28,8 +28,9 @@ The Lost Files (A lost media archive, where its webpage contents is a mix betwee
 Frebble (A joke game where you have to hover over bubbles to pop them in a time span of 10 seconds. If you lose, you get jumpscared by Freddy Fazbear from the Five Nights at Freddy's series (credits to Scott Cawthon)): Coming soon<br/>
 A number sign's day (A game about a number sign, and the player is in the number sign's house. There is no main goal, the player can just relax, wander around the house, or go outside to enjoy some fresh air.): Coming soon<br/>
 Supercalifragilisticexpialidocious (Geometry Dash mod that adds new content. Will soon be a modpack containing 450+ mods): On hold (v1.0.0-beta.3) <br/>
-Bunch O' Characters (bb+ mod that adds a bunch of npcs): Coming soon <br/>
-Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (current reconstructed builds will be released tomorrow)
+Bunch O' Characters (bb+ mod that adds a bunch of npcs): Coming soon<br/>
+Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (current reconstructed builds will be released on March 12th)<br/>
+Splaat-O-Pocalypse (bb+ mod that adds splaat (klasky csupo) and its effects. the mod has inspiration from total test trouble): Coming soon
 
 <p>* Build number.</p>
 
