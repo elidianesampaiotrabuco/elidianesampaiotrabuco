@@ -29,8 +29,7 @@ Frebble (A joke game where you have to hover over bubbles to pop them in a time 
 A number sign's day (A game about a number sign, and the player is in the number sign's house. There is no main goal, the player can just relax, wander around the house, or go outside to enjoy some fresh air.): Coming soon<br/>
 Supercalifragilisticexpialidocious (Geometry Dash mod that adds new content. Will soon be a modpack containing 450+ mods): On hold (v1.0.0-beta.3) <br/>
 Bunch O' Characters (bb+ mod that adds a bunch of npcs): Coming soon <br/>
-Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (current reconstructed builds will be released tomorrow) <br/>
-Times Revived (Unofficial revival of the BBX mod, and the sequel of TBRT): In development
+Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (current reconstructed builds will be released tomorrow)
 
 <p>* Build number.</p>
 
