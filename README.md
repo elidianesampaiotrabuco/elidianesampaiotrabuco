@@ -1,4 +1,4 @@
-# Welcome to MediaStickyVideoEditor640 HD (soon to be Nexusian/MediaNexusLogoEditor745 by mid-March)'s GitHub page!
+# Welcome to MediaStickyVideoEditor640 HD (soon to be Nexusian/TheEnhancedNexusLogoEditorAndYTPer2048 Mᴴᴰ by mid-March)'s GitHub page!
 > 2026 is actually real omfg!!!1111 (joke)
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
@@ -29,7 +29,7 @@ Frebble (A joke game where you have to hover over bubbles to pop them in a time 
 A number sign's day (A game about a number sign, and the player is in the number sign's house. There is no main goal, the player can just relax, wander around the house, or go outside to enjoy some fresh air.): Coming soon<br/>
 Supercalifragilisticexpialidocious (Geometry Dash mod that adds new content. Will soon be a modpack containing 450+ mods): On hold (v1.0.0-beta.3) <br/>
 Bunch O' Characters (bb+ mod that adds a bunch of npcs): Coming soon<br/>
-Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (current reconstructed builds will be released on March 12th)<br/>
+Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (rewrite builds have been released to the public)<br/>
 Total Splaat Madness (bb+ mod that adds splaat (klasky csupo) and its effects. the mod has inspiration from total test trouble): In development (Demo 1)
 
 <p>* Build number.</p>
