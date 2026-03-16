@@ -30,7 +30,8 @@ A number sign's day (A game about a number sign, and the player is in the number
 Supercalifragilisticexpialidocious (Geometry Dash mod that adds new content. Will soon be a modpack containing 450+ mods): On hold (v1.0.0-beta.3) <br/>
 Bunch O' Characters (bb+ mod that adds a bunch of npcs): Coming soon<br/>
 Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (rewrite builds have been released to the public)<br/>
-Total Splaat Madness (bb+ mod that adds splaat (klasky csupo) and its effects. the mod has inspiration from total test trouble): In development (Demo 2)
+Total Splaat Madness (bb+ mod that adds splaat (klasky csupo) and its effects. the mod has inspiration from total test trouble): In development (Demo 2)<br/>
+Times Revived (Unofficial revival of the BBX mod, and the sequel of TBRT): In development
 
 <p>* Build number.</p>
 
