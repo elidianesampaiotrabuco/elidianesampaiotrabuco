@@ -31,7 +31,8 @@ Hippopotomonstrosesquippedaliophobia (Formerly named Supercalifragilisticexpiali
 Bunch O' Characters (bb+ mod that adds a bunch of npcs): Coming soon<br/>
 Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics Times builds): On hold (rewrite builds have been released to the public)<br/>
 Total Splaat Madness (bb+ mod that adds splaat (klasky csupo) and its effects. the mod has inspiration from total test trouble): In development (Demo 2)<br/>
-Times Revived (Unofficial revival of the BBX mod, and the sequel of TBRT): Done, i guess (v1.3.1)
+Times Revived (Unofficial revival of the BBX mod, and the sequel of TBRT): Done, i guess (v1.3.1)<br/>
+Malwareless ThinkerAPI Connector (Connector for the malwareless/clean version of ThinkerAPI): Released
 
 <p>* Build number.</p>
 
