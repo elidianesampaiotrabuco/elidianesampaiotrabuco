@@ -34,7 +34,8 @@ Total Splaat Madness (bb+ mod that adds splaat (klasky csupo) and its effects. t
 Baldi's Basics Plus Extra Content (Unofficial continuation of the BBX mod): Currently being maintained by DenysCrasav4ik (v1.4.2.2)<br/>
 Malwareless ThinkerAPI Connector (Connector for the malwareless/clean version of ThinkerAPI): Discontinued<br/>
 The Supercalifragilisticexpialidocious Pack (complete remake of STOC Pack, a BB+ mod. will have TONS of content, like NPCs, items, structures, rooms, etc. might need help from other modders): Coming soon<br/>
-The Nextbot Pack (mod for BB+ that adds in nextbots, which spawn exclusively in a room): Coming soon
+The Nextbot Pack (mod for BB+ that adds in nextbots, which spawn exclusively in a room): Coming soon<br/>
+HTF Pack (happy tree friends themed bb+ mod): Coming soon
 
 <p>* Build number.</p>
 
