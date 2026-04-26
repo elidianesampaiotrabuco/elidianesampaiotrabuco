@@ -33,7 +33,7 @@ Times Before Real Times (Froyocomb-like reconstruction project of Baldi's Basics
 Total Splaat Madness (bb+ mod that adds splaat (klasky csupo) and its effects. the mod has inspiration from total test trouble): In development (Demo 2)<br/>
 Baldi's Basics Plus Extra Content (Unofficial continuation of the BBX mod): Currently being maintained by DenysCrasav4ik (v1.4.2.2)<br/>
 Malwareless ThinkerAPI Connector (Connector for the malwareless/clean version of ThinkerAPI): Discontinued<br/>
-Baldi's Basics Extra Character Madness (complete remake of STOC Pack, a BB+ mod. will have TONS of content, like NPCs, items, structures, rooms, etc. might need help from other modders): Being worked on by Jeremiah<br/>
+Baldi's Basics Extra Character Madness (complete remake of STOC Pack, a BB+ mod. will have TONS of content, like NPCs, items, structures, rooms, etc. might need help from other modders): In development (v0.1)<br/>
 The Nextbot Pack (mod for BB+ that adds in nextbots, which spawn exclusively in a room): Coming soon<br/>
 HTF Pack (happy tree friends themed bb+ mod): Coming soon
 
