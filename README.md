@@ -1,4 +1,4 @@
-# Welcome to EkremTheStickman/MediaEkremLogoEditor845 HD (soon to be EkremTheChihuahua/GidgetEdits!/TheTacoBellChihuahuaMediaLogoEditingYTPs3795 Mᴴᴰ by early-May 2026)'s GitHub page!
+# Welcome to EkremTheStickman/MediaEkremLogoEditor845 HD (soon to be EkremTheChihuahua/GidgetEditz/TheTacoBellChihuahuaMediaLogoEditing2745 Mᴴᴰ by early-May 2026)'s GitHub page!
 > i'm slowly starting to get famous on the internet lmao
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
