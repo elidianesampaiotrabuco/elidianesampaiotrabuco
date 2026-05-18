@@ -1,4 +1,4 @@
-# Welcome to EkremEdits!/MediaEkremLogoEditor845 HD (soon to be Mr. Starry/StarryEditz!/TheEnhancedStarryObjectThingyMediaLogoEffects2751 Fᴴᴰ by mid-June 2026)'s GitHub page!
+# Welcome to EkremEdits!/MediaEkremLogoEditor845 HD (soon to be StarryEditz!/TheEnhancedStarryObjectThingyMediaLogoEffects2751 Fᴴᴰ by mid-June 2026)'s GitHub page!
 > i'm slowly starting to get famous on the internet lmao
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
