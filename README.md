@@ -35,7 +35,8 @@ Baldi's Basics Plus Extra Content (Unofficial continuation of the BBX mod): Curr
 Malwareless ThinkerAPI Connector (Connector for the malwareless/clean version of ThinkerAPI): Discontinued<br/>
 Baldi's Basics Extra Character Madness (complete remake of STOC Pack, a BB+ mod. will have TONS of content, like NPCs, items, structures, rooms, etc. might need help from other modders): On hold (v0.1)<br/>
 The Nextbot Pack (mod for BB+ that adds in nextbots, which spawn exclusively in a room): Coming soon<br/>
-HTF Pack (happy tree friends themed bb+ mod): Coming soon
+HTF Pack (happy tree friends themed bb+ mod): Coming soon<br/>
+Funzys Menu (Mod/cheat menu for old versions of Baldi's Basics Plus before 0.6): Coming soon
 
 <p>* Build number.</p>
 
