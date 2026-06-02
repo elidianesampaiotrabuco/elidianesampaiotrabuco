@@ -36,7 +36,7 @@ Malwareless ThinkerAPI Connector (Connector for the malwareless/clean version of
 Baldi's Basics Extra Character Madness (complete remake of STOC Pack, a BB+ mod. will have TONS of content, like NPCs, items, structures, rooms, etc. might need help from other modders): On hold (v0.1)<br/>
 The Nextbot Pack (mod for BB+ that adds in nextbots, which spawn exclusively in a room): Coming soon<br/>
 HTF Pack (happy tree friends themed bb+ mod): Coming soon<br/>
-Funyuns (Mod/cheat menu for BB+ 0.5.x): Coming soon
+Funyuns (Keycheat mod for BB+ 0.5.x): Coming soon
 
 <p>* Build number.</p>
 
