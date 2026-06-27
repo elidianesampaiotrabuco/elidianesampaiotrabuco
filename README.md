@@ -1,6 +1,6 @@
 # Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
 > [!IMPORTANT]  
-> Starting 27 June 2026 (today), at 6:45 PM BRT, my main website will be offline for scheduled maintenance. The maintenance will be concluded on July 12th (alongside a few updates to the site). The Lost Files and other websites i owned will remain online during this time, but will rarely recieve updates 'till the maintenance is concluded. Apologies for the inconvenience, and thank you for your patience. For a few more information, check this post from my DeviantART account: https://www.deviantart.com/elidianesampaio2023/status-update/my-personal-website-will-be-1349573652
+> My main website is currently offline for maintenance. Other websites (like The Lost Files or PsXTRA) i own will still be online during the maintenance window.
 
 > i'm slowly starting to get famous on the internet lmao
 
