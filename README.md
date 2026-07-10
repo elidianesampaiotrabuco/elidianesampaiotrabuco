@@ -2,7 +2,7 @@
 > [!IMPORTANT]  
 > My main website is currently offline for maintenance. Other websites (like The Lost Files or PsXTRA) i own will still be online during the maintenance window.
 
-> i'm slowly starting to get famous on the internet lmao
+> to lolms: i was the only one to star one of your repos LMAO
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
 
