@@ -1,6 +1,6 @@
 # Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
 > [!IMPORTANT]  
-> My personal website is currently under maintenance, and will be back online tomorrow at 1 PM BRT. Apologies for the inconvenience.
+> My personal website is currently under maintenance, and will be back online tomorrow at 12 PM BRT. Apologies for the inconvenience.
 
 > to lolms: i was the only one to star one of your repos LMAO
 
