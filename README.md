@@ -1,7 +1,4 @@
 # Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
-> [!IMPORTANT]  
-> My personal website is currently under maintenance, and will be back online in July 17th @ 12 PM BRT. Apologies for the inconvenience.
-
 > to lolms: i was the only one to star one of your repos LMAO
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
