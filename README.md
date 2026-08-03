@@ -1,4 +1,4 @@
-# Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (soon to be ASTDaRabbit/ANick/TheEnhancementNickJuniorRabbitTrippyEffectsVideoAudioEditor5462 Mᴴᴰ(*), by December 14th, 2026, short logo editing name: TENJRTEVAE5462 Mᴴᴰ) (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
+# Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (soon to be HerpyTheRabbit/HNick/TheEnhancementNickJuniorRabbitTrippyEffectsVideoAudioEditor5462 Mᴴᴰ(*), by December 14th, 2026, short logo editing name: TENJRTEVAE5462 Mᴴᴰ) (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
 > to lolms: i was the only one to star one of your repos LMAO
 
 <p>* Logo editing name will be dropped in April next year (2027), due to the fact i will leave the logo editing community on said date.</p>
