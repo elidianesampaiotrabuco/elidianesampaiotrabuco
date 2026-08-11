@@ -1,4 +1,7 @@
 # Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (soon to be HerpyBunny/H3RPY8UNNY/HNick/TheEnhancementNickJuniorBunnyTrippyEffectsVideoAudioEditor5462 Mᴴᴰ(*), by September 28th 2026, short logo editing name: TENJRTEVAE5462 Mᴴᴰ) (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
+> [!IMPORTANT]  
+> Due to strong winds in my area, my personal site will be down for maintenance starting at 12 AM BRT, and will be back online once the strong winds stop. Apologies for the inconvenience.
+
 > to lolms: i was the only one to star one of your repos LMAO
 
 <p>* Logo editing name will be dropped in April next year (2027), due to the fact i will leave the logo editing community on said date.</p>
