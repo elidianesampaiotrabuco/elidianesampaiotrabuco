@@ -1,4 +1,4 @@
-# Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (soon to be HerpyBunny/H3RPY8UNNY/HNick/TehHerpySpartan/Herpy5486/TheEnhancementNickJrBunnyLSDVideoAudioEditor5486 Mᴴᴰ(*), by September 10th 2026, short logo editing name: TENJBLVAE5486 Mᴴᴰ) (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
+# Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (soon to be HerpyBunny/H3RPY8UNNY/HNick/TehHerpySpartan/Herpy2072/HerpyTheNickJrWindowsLogoMaker2072 HD(*), by September 10th 2026, short logo editing name: HTNJWLM2072 HD) (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
 > to lolms: i was the only one to star one of your repos LMAO
 
 <p>* Logo editing name will be dropped in April next year (2027), due to the fact i will leave the logo editing community on said date.</p>
