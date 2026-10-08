@@ -1,7 +1,7 @@
 # Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (soon to be HerpyBunny/H3RPY8UNNY/HNick/TehHerpySpartan/HerpFunys/HerpyEdits!/TheFunysNickJrBunniesGlitchyLogoFanaticVideoEditor3708 Qᴴᴰ/HerpyTheWindowsLogoMaker763 HD(*), by October 9th 2026, short logo editing name: TFNJBGLFVE3708 Qᴴᴰ/HTWLM763 HD) (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
 > to lolms: i was the only one to star one of your repos LMAO
 
-<p>* Logo editing name will be dropped in April next year (2027), due to the fact i will leave the logo editing community on said date.</p>
+<p>* Starting in mid-May 2027, i will leave the logo editing community, meaning my logo-editing names will be dropped after this date.</p>
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
 
