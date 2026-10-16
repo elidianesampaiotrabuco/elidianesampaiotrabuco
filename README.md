@@ -1,5 +1,5 @@
-# Welcome to EkremTheStar/StarryEditz!!!/MediaStarryObjectShowLoverVideoEditorCommunications3076 Fᴴᴰ (soon to be HerpyBunny/H3RPY8UNNY/HNick/TehHerpySpartan/HerpFunys/HerpyEdits!/TheFunysNickJrBunniesGlitchyLogoFanaticVideoEditor3708 Qᴴᴰ/HerpyTheWindowsLogoMaker763 HD(*), by October 13th 2026, short logo editing name: TFNJBGLFVE3708 Qᴴᴰ/HTWLM763 HD) (short: MSOSLVEC3076 Fᴴᴰ)'s GitHub page!
-> to lolms: i was the only one to star one of your repos LMAO
+# Welcome to HerpyBunny/H3RPY8UNNY/HNick/TehHerpySpartan/HerpFunys/HerpyEdits!/TheFunysNickJrBunniesGlitchyLogoFanaticVideoEditor3708 Qᴴᴰ/HerpyTheWindowsLogoMaker763 HD(*) (short: TFNJBGLFVE3708 Qᴴᴰ/HTWLM763 HD)'s GitHub page!
+> Be tax x mass bar I'm Be Ha
 
 <p>* Starting in mid-May 2027, i will leave the logo editing community, meaning my logo-editing names will be dropped after this date.</p>
 
