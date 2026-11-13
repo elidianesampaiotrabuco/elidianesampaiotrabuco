@@ -1,6 +1,8 @@
 # Welcome to HerpyBunny/H3RPY8UNNY/HNick/TehHerpySpartan/HerpFunys/HerpyEdits!/TheFunysNickJrBunniesGlitchyLogoFanaticVideoEditor3708 Qᴴᴰ/HerpyTheWindowsLogoMaker763 HD(*) (short: TFNJBGLFVE3708 Qᴴᴰ/HTWLM763 HD)'s GitHub page!
 > Be tax x mass bar I'm Be Ha
 
+Upcoming brand change: HerpyKitty/Herpy teh Cat/HerpyMediaFX/TheFunyLittleKittyLogoEditing4096 Mᴴᴰ/MediaHerpyCatLogoEditor946 HD(*) - March 2027
+
 <p>* Starting in mid-May 2027, i will leave the logo editing community, meaning my logo-editing names will be dropped after this date.</p>
 
 I'm the lead developer of PsXTRA (has an ultimate and classic version), UnityExplorer+ (started getting popular) and other projects (some are dead forks). Also the lead founder of Apollo Productions (founded in late-August 2025).
